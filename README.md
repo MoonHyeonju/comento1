@@ -31,5 +31,10 @@
 
 
 ### 6. root-context.xml에서 오류
+
 ![image](https://github.com/MoonHyeonju/comento1/assets/100399677/946dafd4-5a7a-4df6-a83f-294122e71bc9)
+
+### 7. MovieVO.java
+
+![image](https://github.com/MoonHyeonju/comento1/assets/100399677/cd89631f-7ea7-438a-b84a-3d8eefef677f)
 
