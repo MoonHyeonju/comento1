@@ -30,6 +30,6 @@
 ![image](https://github.com/MoonHyeonju/comento1/assets/100399677/6d9fbf7c-6a80-4339-9d0a-89d3b62faadf)
 
 
-### 6. root-context.xml에서 오류 발생
+### 6. root-context.xml에서 오류
 ![image](https://github.com/MoonHyeonju/comento1/assets/100399677/946dafd4-5a7a-4df6-a83f-294122e71bc9)
 
