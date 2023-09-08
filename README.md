@@ -11,7 +11,9 @@
 
 
 ### 3. Tomcat 9버전 설치
-![image](https://github.com/MoonHyeonju/comento1/assets/100399677/53e68692-23ff-4bf9-8a46-35ab535614bd)
+
+![image](https://github.com/MoonHyeonju/comento1/assets/100399677/59cd0239-4c35-4b79-aff2-24252e85760b)
+
 
 ### 4. MariaDB 10.11 설치
 
