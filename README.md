@@ -5,7 +5,7 @@
 ![image](https://github.com/MoonHyeonju/comento1/assets/100399677/d98aba14-485e-4ace-9b6a-f7129c10f5d6)
 
 
-### 2. Eclipse 설치(2019-12 버전)
+### 2. Eclipse 2019-12 버전 설치
 
 ![image](https://github.com/MoonHyeonju/comento1/assets/100399677/b6c1f97a-42fa-49c8-8b48-1f8e1a10953a)
 
@@ -16,7 +16,12 @@
 
 ![image](https://github.com/MoonHyeonju/comento1/assets/100399677/6e856c99-02b7-40b7-97e7-99dcac5da9c4)
 
-### 5. MySQL 설치
+### 5. MySQL 설치(여기서 문제 발생)
 
-1차시도 - 8.0.34버전
+1차 시도 - 8.0.34버전
 
+![image](https://github.com/MoonHyeonju/comento1/assets/100399677/66344c49-0ecf-4ff1-a532-4eb782775712)
+
+2차 시도 - 8.0.16버전(버튼이 비활성화됨)
+
+![image](https://github.com/MoonHyeonju/comento1/assets/100399677/6d9fbf7c-6a80-4339-9d0a-89d3b62faadf)
